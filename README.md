@@ -1,1 +1,1 @@
-# ED_recovery
+Analysis scripts for the ED recovery project.
